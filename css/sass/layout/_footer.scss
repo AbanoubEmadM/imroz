@@ -1,0 +1,26 @@
+footer {
+  margin-top: 140px;
+  background-color: #000;
+  .row {
+    margin-right: 0px;
+    padding: 40px;
+    img {
+      width: 140px;
+      margin-bottom: 20px;
+    }
+    .social-media {
+      i {
+        color: #777;
+        font-size: 20px;
+        margin-right: 24px;
+        border: 2px solid #777;
+        padding: 15px;
+        border-radius: 50%;
+      }
+    }
+    p {
+      color: #777;
+      margin-top: 20px;
+    }
+  }
+}
